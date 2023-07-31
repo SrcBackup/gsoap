@@ -9,6 +9,7 @@ Not an official repository containing backups of [gSOAP](https://www.genivia.com
 To download the archives see assets files in tag:
 
  - [ver 2.7.x](https://github.com/SrcBackup/gsoap/releases/tag/v2.7.x)
+ - [ver 2.8.x](https://github.com/SrcBackup/gsoap/releases/tag/v2.8.x)
 
 
 Official site of the gSOAP project: https://www.genivia.com
